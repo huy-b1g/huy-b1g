@@ -1,7 +1,8 @@
 ### 📊 GitHub Status 📋:
 
 [![huy-b1g's GitHub stats](https://github-readme-stats.vercel.app/api?username=huy-b1g&show_icons=true&theme=gruvbox
-)](https://github.com/huy-b1g/github-readme-stats)
+)](https://github.com/huy-b1g/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### GitHub Streak:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huy-b1g&theme=gruvbox)](https://git.io/streak-stats)
